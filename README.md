@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
