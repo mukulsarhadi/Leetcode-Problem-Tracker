@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
