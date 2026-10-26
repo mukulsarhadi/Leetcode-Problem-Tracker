@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
