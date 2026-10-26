@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
 | ------- |
