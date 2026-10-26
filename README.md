@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
