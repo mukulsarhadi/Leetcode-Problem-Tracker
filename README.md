@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
