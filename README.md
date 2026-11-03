@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
+| [0239-sliding-window-maximum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0485-max-consecutive-ones) |
@@ -101,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
