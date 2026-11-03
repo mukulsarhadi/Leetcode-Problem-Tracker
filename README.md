@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,9 +81,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
