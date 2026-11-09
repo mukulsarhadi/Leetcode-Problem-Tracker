@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1004-max-consecutive-ones-iii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1266-minimum-time-visiting-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/2390-removing-stars-from-a-string) |
+## Math
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1266-minimum-time-visiting-all-points) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
