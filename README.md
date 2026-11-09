@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1004-max-consecutive-ones-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1266-minimum-time-visiting-all-points) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
