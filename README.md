@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0424-longest-repeating-character-replacement) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
@@ -56,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
@@ -79,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0239-sliding-window-maximum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0475-heaters) |
@@ -179,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
