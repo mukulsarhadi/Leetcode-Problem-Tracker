@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0239-sliding-window-maximum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0475-heaters) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0739-daily-temperatures) |
@@ -168,7 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
