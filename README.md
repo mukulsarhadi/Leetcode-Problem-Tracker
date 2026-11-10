@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/2390-removing-stars-from-a-string) |
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
