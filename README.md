@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0475-heaters) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
+| [0234-palindrome-linked-list](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0739-daily-temperatures) |
@@ -210,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
