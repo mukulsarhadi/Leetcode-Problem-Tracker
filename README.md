@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -216,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/mukulsarhadi/Leetcode-Problem-Tracker/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
